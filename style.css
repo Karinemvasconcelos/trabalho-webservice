@@ -1,19 +1,15 @@
-.col-1{
-  background-color: antiquewhite;
+.myclass-1{
+  background-color: rgb(230, 186, 204);
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  height: 400px;
+  min-height: 400px;
 
 }
-.col-2{
-  background-color: rgba(153, 147, 147, 0.432);
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-  height: 400px;
-}
-.col-3{
-background-color: aquamarine;
-height: 400px;
+
+.myclass-2{
+background-color: rgb(243, 225, 240);
+min-height: 400px;
+padding: 25px !important;
 
 }
 .col-botoes{
@@ -29,7 +25,8 @@ text-align: center;
 
 }
 .col-img1{
-    height: 80px;
+    height: auto;
+    width: 100%;
     margin-bottom: 40px;
 }
 h1{
