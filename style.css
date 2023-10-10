@@ -1,5 +1,5 @@
 .myclass-1{
-  background-color: rgb(230, 186, 204);
+  background: #FFFFFF url("imagens/fundo\ 2.jpg") no-repeat right top fixed;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   min-height: 400px;
@@ -10,8 +10,10 @@
 background-color: rgb(243, 225, 240);
 min-height: 400px;
 padding: 25px !important;
-
+background: #FFFFFF url("imagens/fundo.jpg") no-repeat right top fixed;
+text-align: center;
 }
+
 .col-botoes{
 color: brown;
 padding-left: 50%;
