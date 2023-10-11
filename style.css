@@ -50,5 +50,10 @@ justify-content: center;
 .video{
   min-width: 400px;
   min-height: 300px;
-
+}
+.cxtexto{
+  border-radius: 7px;
+}
+.label-input{
+  position: initial;
 }
