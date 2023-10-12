@@ -28,8 +28,8 @@ text-align: center;
 }
 .col-img1{
     height: auto;
-    width: 100%;
-    margin-bottom: 40px;
+    width: 70%;
+    margin-bottom: 30px 30px 30px 30px ;
 }
 h1{
     margin-top: 20px !important;
@@ -55,5 +55,6 @@ justify-content: center;
   border-radius: 7px;
 }
 .label-input{
-  position: initial;
+  position: relative;
+  margin: 20px 0;
 }
